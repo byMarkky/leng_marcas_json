@@ -1,0 +1,34 @@
+[
+    {
+        "nombre": "rojo",
+        "hex": "#FF0000"
+    },
+    {
+        "nombre": "azul",
+        "hex": "#0000FF"
+    },
+    {
+        "nombre": "verde",
+        "hex": "#00FF00"
+    },
+    {
+        "nombre": "aqua",
+        "hex": "#79E8F2"
+    },
+    {
+        "nombre": "morado",
+        "hex": "#8800FF"
+    },
+    {
+        "nombre": "amarillo",
+        "hex": "#FFFF00"
+    },
+    {
+        "nombre": "rosa",
+        "hex": "#FF70EE"
+    },
+    {
+        "nombre": "marron",
+        "hex": "#632F04"
+    }
+]

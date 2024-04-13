@@ -1,0 +1,37 @@
+{
+    "empleados": [
+        {
+            "codigo": 1,
+            "nombre": "Antonio",
+            "apellidos": "Gutierrez",
+            "fecha_nac": "30-3-1980",
+            "fecha_alta": "12-7-1999",
+            "coche": {
+                "modelo": "Seat Ibiza",
+                "matricula": "1111ABC"
+            }
+        },
+        {
+            "codigo": 2,
+            "nombre": "Javier",
+            "apellidos": "Rodriguez",
+            "fecha_nac": "30-3-1996",
+            "fecha_alta": "03-12-2020",
+            "coche": {
+                "modelo": "Mercedes Benz",
+                "matricula": "1234YYY"
+            }
+        },
+        {
+            "codigo": 3,
+            "nombre": "Sara",
+            "apellidos": "Martinez",
+            "fecha_nac": "12-12-2000",
+            "fecha_alta": "7-2-2023",
+            "coche": {
+                "modelo": "BWM e30",
+                "matricula": "6666UUU"
+            }
+        }
+    ]
+}

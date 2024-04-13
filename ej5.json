@@ -1,0 +1,57 @@
+{
+    "almacenamiento": {
+        "depósitos": [
+            {
+                "tipo": "Grandes",
+                "acepta_envases": "Grande"
+            },
+            {
+                "tipo": "Medianos",
+                "acepta_envases": "No Grande"
+            },
+            {
+                "tipo": "Verticales",
+                "acepta_envases": "Alto"
+            }
+        ],
+        "envases": [
+            {
+                "tipo": "Grande ancho",
+                "tamaño": "Grande",
+                "restricciones": "Válido para alimentos"
+            },
+            {
+                "tipo": "Grande alto",
+                "tamaño": "Grande",
+                "restricciones": "Válido para alimentos"
+            },
+            {
+                "tipo": "Mediano ancho",
+                "tamaño": "Mediano",
+                "restricciones": "Válido para alimentos"
+            },
+            {
+                "tipo": "Mediano alto",
+                "tamaño": "Mediano",
+                "restricciones": "Resistente a corrosión"
+            },
+            {
+                "tipo": "Pequeño",
+                "tamaño": "Pequeño",
+                "restricciones": "Resistente a corrosión"
+            }
+        ],
+        "líquidos": [
+            "Agua",
+            "Leche",
+            "Lejía",
+            "Amoniaco",
+            "Jabón",
+            "Aguarrás",
+            "Gasolina",
+            "Aceite",
+            "Vinagre",
+            "Alcohol"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+<almacenamiento>
+    <depósitos>
+      <depósito>
+        <tipo>Grandes</tipo>
+        <acepta_envases>Grande</acepta_envases>
+      </depósito>
+      <depósito>
+        <tipo>Medianos</tipo>
+        <acepta_envases>No Grande</acepta_envases>
+      </depósito>
+      <depósito>
+        <tipo>Verticales</tipo>
+        <acepta_envases>Alto</acepta_envases>
+      </depósito>
+    </depósitos>
+    
+    <envases>
+      <envase>
+        <tipo>Grande ancho</tipo>
+        <tamaño>Grande</tamaño>
+        <restricciones>Válido para alimentos</restricciones>
+      </envase>
+      <envase>
+        <tipo>Grande alto</tipo>
+        <tamaño>Grande</tamaño>
+        <restricciones>Válido para alimentos</restricciones>
+      </envase>
+      <envase>
+        <tipo>Mediano ancho</tipo>
+        <tamaño>Mediano</tamaño>
+        <restricciones>Válido para alimentos</restricciones>
+      </envase>
+      <envase>
+        <tipo>Mediano alto</tipo>
+        <tamaño>Mediano</tamaño>
+        <restricciones>Resistente a corrosión</restricciones>
+      </envase>
+      <envase>
+        <tipo>Pequeño</tipo>
+        <tamaño>Pequeño</tamaño>
+        <restricciones>Resistente a corrosión</restricciones>
+      </envase>
+    </envases>
+    
+    <líquidos>
+      <líquido>Agua</líquido>
+      <líquido>Leche</líquido>
+      <líquido>Lejía</líquido>
+      <líquido>Amoniaco</líquido>
+      <líquido>Jabón</líquido>
+      <líquido>Aguarrás</líquido>
+      <líquido>Gasolina</líquido>
+      <líquido>Aceite</líquido>
+      <líquido>Vinagre</líquido>
+      <líquido>Alcohol</líquido>
+    </líquidos>
+  </almacenamiento>
+  
